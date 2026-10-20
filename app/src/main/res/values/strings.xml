@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Noodle Magazine</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_portal">Web Portal</string>
+    <string name="nav_notifications">Alerts</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_customize">Customize</string>
+    <string name="dashboard_title">My Magazine</string>
+    <string name="dashboard_subtitle">Personalized feed &amp; live engagement</string>
+    <string name="notifications_title">Real-Time Alerts</string>
+    <string name="saved_items_title">Saved &amp; History</string>
+    <string name="portal_title">Web Experience</string>
+    <string name="customize_title">Customize Dashboard</string>
+    <string name="channel_breaking_name">Breaking Updates</string>
+    <string name="channel_breaking_desc">Immediate breaking news and trending media alerts</string>
+    <string name="channel_content_name">New Releases</string>
+    <string name="channel_content_desc">New articles, videos and editorial picks</string>
+    <string name="channel_engagement_name">Engagement &amp; Digests</string>
+    <string name="channel_engagement_desc">Daily highlights and community activity</string>
+</resources>

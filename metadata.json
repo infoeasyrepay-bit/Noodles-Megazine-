@@ -1,0 +1,8 @@
+{
+  "name": "Noodle Magazine",
+  "description": "Smooth media and video magazine app featuring customizable user dashboard, live real-time notification alerts, and seamless web engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
